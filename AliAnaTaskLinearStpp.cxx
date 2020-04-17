@@ -1,7 +1,7 @@
 /*
-  22/04/2011
-  This is the official task for the transverse sphericity analysis 
-  Author: Antonio Ortiz, antonio.ortiz@nucleares.unam.mx
+  01/05/2017
+  task analysis for the transverse sphericity
+  Author: Héctor Bello
 */
 
 
